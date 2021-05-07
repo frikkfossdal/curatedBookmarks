@@ -11,6 +11,6 @@ A highly detailed overview of end-to-end energy usage in the US.
 ## [David F. Noble's Forces of Production](docs/david_f-_noble_david_f-_noble_forces_of_productbookza-org-2.pdf)
 A controversial and historical document about the post war industrial development in the US.
 
-	## [OpenAI GPT-3](https://openai.com/blog/openai-api/)
+## [OpenAI GPT-3](https://openai.com/blog/openai-api/)
 
 
