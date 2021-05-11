@@ -11,6 +11,10 @@ A highly detailed overview of end-to-end energy usage in the US.
 ## [David F. Noble's Forces of Production](docs/david_f-_noble_david_f-_noble_forces_of_productbookza-org-2.pdf)
 A controversial and historical document about the post war industrial development in the US.
 
-	## [OpenAI GPT-3](https://openai.com/blog/openai-api/)
+## [OpenAI GPT-3](https://openai.com/blog/openai-api/)
+The forefront of natural language systems. Put on a warm jacket, because this will give you a chill. 
 
 
+## [Fabricate2020](https://www.uclpress.co.uk/collections/series-fabricate/products/154646)
+
+A journal showcasing the forefront of the intersection between digital fabrication and applied architecture & design. 
