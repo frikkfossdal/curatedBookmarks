@@ -19,3 +19,9 @@ The forefront of natural language systems. Put on a warm jacket, because this th
 ## [Fabricate2020](https://www.uclpress.co.uk/collections/series-fabricate/products/154646)
 
 A journal showcasing the forefront of the intersection between digital fabrication and applied architecture & design.
+
+# Javascript 
+
+Might move this to separate doc. 
+
+## [Observable Plot](https://observablehq.com/@observablehq/plot)
