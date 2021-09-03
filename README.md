@@ -31,3 +31,7 @@ Might move this to separate doc.
 ## [AliceVision](https://alicevision.org)
 
 Open-source photogrammetry (not tested).
+
+[Githubs copilot](https://copilot.github.com/)
+
+Code suggestion based on OpenAI. Available as extension in Visual Code.
