@@ -32,6 +32,6 @@ Might move this to separate doc.
 
 Open-source photogrammetry (not tested).
 
-##[Githubs copilot](https://copilot.github.com/)
+## [Githubs copilot](https://copilot.github.com/)
 
 Code suggestion / autocomplete based on OpenAI. Available as extension in Visual Code.
