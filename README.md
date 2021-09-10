@@ -8,6 +8,10 @@ A yearly review that highlight global research trends and advancing technology. 
 
 A highly detailed overview of end-to-end energy usage in the US.
 
+## [Equinor](https://www.equinor.com/en/sustainability/energy-perspectives.html)
+
+--explain--
+
 ## [David F. Noble's Forces of Production](docs/david_f-_noble_david_f-_noble_forces_of_productbookza-org-2.pdf)
 
 A controversial and historical document about the post war industrial development in the US.
